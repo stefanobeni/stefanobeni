@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Technologies and Coding Languages:
+Python
+C
+
+
+- 🌱 I’m currently learning about agent-based modelling and looking to learn about machine learning.
+
 <!--
 **stefanobeni/stefanobeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
