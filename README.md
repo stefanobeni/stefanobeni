@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-Technologies and Coding Languages:
-Python
-C
-
-
 - 🌱 I’m currently learning about agent-based modelling and looking to learn about machine learning.
 
 <!--
