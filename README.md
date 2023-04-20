@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 💬 Ask me about numerical simulations and the outer heliosphere!
 - 🌱 I’m currently learning about agent-based modelling and looking to learn about machine learning.
 
 <!--
